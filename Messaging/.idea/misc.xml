@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="javafx11">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx-swt.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.base.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.controls.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.fxml.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.graphics.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.media.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.swing.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
